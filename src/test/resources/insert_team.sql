@@ -1,0 +1,2 @@
+insert into teams values('11eb2f22-3b50-3d80-b196-54e1ad12b6a9', 'The Test Team');
+insert into developers values('11eb2f22-3b50-3d80-b196-54e1ad12b6a1', 'Developer Test 1', '9999999999', '11eb2f22-3b50-3d80-b196-54e1ad12b6a9');
